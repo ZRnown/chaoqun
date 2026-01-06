@@ -1,0 +1,10 @@
+1、大家好！我是1号，今天我们来测试图片发送功能。
+2、2号报道！准备测试。
+3、3号在这里，准备好了。
+4、4号到！开始测试。
+4、IMG:/Users/wanghaixin/Development/telegramBotWork/ChaoQun/Snipaste_2026-01-05_14-56-43.png：这是第一张测试图片。
+1、R[5] @4：4号发的图片收到了，很清楚！
+3、R[5] @4：图片质量很好。
+4、R[6] IMG:/Users/wanghaixin/Development/telegramBotWork/ChaoQun/Snipaste_2026-01-06_15-01-53.png：这是第二张测试图片。
+2、R[8] @4：第二张图片也收到了！
+1、R[8] @2 @3 @4：很好！图片发送功能测试成功。大家辛苦了！
